@@ -9,7 +9,17 @@ Attempt to close out Roy Halladay's perfect game from May 29, 2010 against the F
 It's the bottom of the 9th inning and Roy Halladay takes the mound against the Florida Marlins, attempting to close out a perfect game.
 
 ### Defensive Lineup ###
-- TODO
+|Fielder        |Position|
+|---------------|--------|
+|Shane Victorino|CF      |
+|Wilson Valdez  |SS      |
+|Chase Utley    |2B      |
+|Ryan Howard    |1B      |
+|Jayson Werth   |RF      |
+|Raul Ibanez    |LF      |
+|Juan Castro    |3B      |
+|Carlos Ruiz    |C       |
+|Roy Halladay   |P       |
 
 ### Offence ###
 - Mike Lamb pinch hits for Brett Hayes
